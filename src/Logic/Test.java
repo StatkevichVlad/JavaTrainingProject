@@ -5,7 +5,7 @@ public class Test {
 	//test2
 	private String Hello;
 	
-	public void satHello() {
+	public void sayHello() {
 		System.out.print(Hello);
 	}
 	
